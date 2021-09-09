@@ -1,10 +1,27 @@
 # Portfolio
 
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+---
+## Procesamiento de Lenguaje Natural
+
+### CS224n: Procesamiento del lenguaje natural con Deep Learning
+
+Una implementación completa de asignaciones y proyectos en [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) por Stanford (Winter, 2019).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/script32/CS224n-NLP)
+
+**Traducción automática neuronal:** Un sistema NMT que traduce textos del español al inglés utilizando un codificador LSTM bidireccional para la oración de origen y un decodificador LSTM unidireccional con atención multiplicativa para la oración de destino ([GitHub](https://github.com/script32/CS224n-NLP/tree/master/assignments)).
+
+**Análisis de dependencia:** Un sistema de análisis de dependencias basado en la transición neuronal con MLP de una capa ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
+
+<center><img src="images/nlp.png"/></center>
+
+---
+
+### Analisis de Sentimiento de Tweets
 
 [![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">Un área principal de atención son los modelos de aprendizaje automático que pueden identificar la toxicidad en las conversaciones en línea, donde la toxicidad se define como cualquier cosa grosera, irrespetuosa o que pueda hacer que alguien abandone una discusión. Si se pueden identificar estas contribuciones tóxicas, podríamos tener una Internet más segura y colaborativa.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
@@ -23,7 +40,7 @@
 ### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/script32/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
 
 <div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
 <br>
@@ -66,24 +83,21 @@
 <br>
 
 ---
-## Procesamiento de Lenguaje Natural
+## Workshop Invierno 2020 UACH
 
-### CS224n: Procesamiento del lenguaje natural con Deep Learning
+[![Ver Evento](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/XnX3HJDSIgU?t=8905)
 
-Una implementación completa de asignaciones y proyectos en [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) por Stanford (Winter, 2019).
+<div style="text-align: justify">Explicacion del viaje de como las empresas del Sector Utility deben adoptar la Inteligencia Artificial</div>
+<br>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/script32/CS224n-NLP)
+<center><img src="images/vision.png"/></center>
 
-**Traducción automática neuronal:** Un sistema NMT que traduce textos del español al inglés utilizando un codificador LSTM bidireccional para la oración de origen y un decodificador LSTM unidireccional con atención multiplicativa para la oración de destino ([GitHub](https://github.com/script32/CS224n-NLP/tree/master/assignments)).
-
-**Análisis de dependencia:** Un sistema de análisis de dependencias basado en la transición neuronal con MLP de una capa ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
+---
 
 ---
 ## Workshop Primavera 2020 UACH
 
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/4eFyjwE3bCM?t=5576)
+[![Ver Evento](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/4eFyjwE3bCM?t=5576)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l4UfnvcbBgybtc16pJcIGuh41ETbXsF3)
 
 <div style="text-align: justify">En esta oportunidad tuve el agrado de participar en este evento de la Universidad Austral de Chile para hacer una demostracion de la computacion visual y una implementacion en menos de 20 lineas de codigo.</div>
