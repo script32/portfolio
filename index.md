@@ -73,12 +73,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 ---
 ### Prediccion de Demanda de Energia Electrica en Instalaciones.
 
-[![Open Notebook](https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![Run in Google Colab](https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0?logo=Jupyter)](projects/breast-cancer.html)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">En este cuaderno se genera un modelo para predecir el rendimiento energético segun tipo de instalación y con datos climaticos. Utilizando tecnicas de regresion con un modelo LGB</div>
 <br>
-<center><img src="images/breast-cancer.png"/></center>
+<center><img src="images/demand1.png"/></center>
 <br>
 
 ## Filmed by me
