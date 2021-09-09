@@ -2,7 +2,7 @@
 
 ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 
-[![Run in Google Colab](https://img.shields.io/pypi/pyversions/pytorch-lightning)](https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers)
+[![Run in Google Colab](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers)
 
 <div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
 
