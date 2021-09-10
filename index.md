@@ -94,9 +94,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 <center><img src="images/vision.png"/></center>
 
 ---
-<center>© 2021 Cristian Rodriguez. Powered by Jekyll.</center>
 
----
 ## Rol de IT Business Partner
 
 ---
@@ -116,5 +114,8 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 <center><img src="images/Optelos.jpeg"/></center>
 
+---
+
+<center>© 2021 Cristian Rodriguez. Powered by Jekyll.</center>
 
 ---
