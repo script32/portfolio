@@ -95,3 +95,26 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 ---
 <center>© 2021 Cristian Rodriguez. Powered by Jekyll.</center>
+
+---
+## Rol de IT Business Partner
+
+---
+### Analisis de Vegetacion con Inteligencia Artificial.
+<div style="text-align: justify">Proyecto orientado a la inspeccion por medio de imagenes satelitales 11.500 Kilometros de Lineas electricas, detectando la vegetacion que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
+<br>
+
+<center><img src="images/Arbol.png"/></center>
+
+
+---
+
+---
+### Analisis de Activos Imagenes de Drones.
+<div style="text-align: justify">Implementacion de la plataforma Optelos, la cual se entrenan cerebros de inteligencia artificial, en el cual puedes entrenar el mismo negocio, esto utiliza la novedosa herramienta de neurala, tambien se puede conectar con los servicios de Microsoft, actualmente tiene alojado mas de 300.000 imagenes de inspecciones de activos</div>
+<br>
+
+<center><img src="images/Optelos.jpeg"/></center>
+
+
+---
