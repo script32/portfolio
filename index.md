@@ -49,8 +49,6 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 **Traducción automática neuronal:** Un sistema NMT que traduce textos del español al inglés utilizando un codificador LSTM bidireccional para la oración de origen y un decodificador LSTM unidireccional con atención multiplicativa para la oración de destino ([GitHub](https://github.com/script32/CS224n-NLP/tree/master/assignments)).
 
-**Análisis de dependencia:** Un sistema de análisis de dependencias basado en la transición neuronal con MLP de una capa ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
 <center><img src="images/nlp.png"/></center>
 
 ---
