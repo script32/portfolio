@@ -64,7 +64,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 <div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="images/eventoinv.jpg"></center>
 <br>
 
 ---
@@ -81,7 +81,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 ---
 ## Workshop Invierno 2020 UACH
 
-[![Ver Evento](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/XnX3HJDSIgU?t=8905)
+[![Ver Evento](https://img.shields.io/badge/YouTube-Ver_Evento-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/XnX3HJDSIgU?t=8905)
 
 <div style="text-align: justify">Explicacion del viaje de como las empresas del Sector Utility deben adoptar la Inteligencia Artificial</div>
 <br>
@@ -93,7 +93,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 ---
 ## Workshop Primavera 2020 UACH
 
-[![Ver Evento](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/4eFyjwE3bCM?t=5576)
+[![Ver Evento](https://img.shields.io/badge/YouTube-Ver_Evento-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/4eFyjwE3bCM?t=5576)
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l4UfnvcbBgybtc16pJcIGuh41ETbXsF3)
 
 <div style="text-align: justify">En esta oportunidad tuve el agrado de participar en este evento de la Universidad Austral de Chile para hacer una demostracion de la computacion visual y una implementacion en menos de 20 lineas de codigo.</div>
