@@ -121,7 +121,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 <div style="text-align: justify"></div>
 <br>
-<center><img width="50%" src="images/Skills.png"/></center>
+<center><img width="30%" src="images/Skills.png"/></center>
 <br>
 
 ---
