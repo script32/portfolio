@@ -102,7 +102,7 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 <div style="text-align: justify">Proyecto orientado a la inspeccion por medio de imagenes satelitales 11.500 Kilometros de Lineas electricas, detectando la vegetacion que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
 <br>
 
-<center><img src="images/Arbol.png"/></center>
+<center><img src="images/Arbol.jpeg"/></center>
 
 
 ---
