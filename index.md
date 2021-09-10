@@ -3,7 +3,7 @@
 
 ### Modelo Predictivo de Tiempo Estimado de Reposicion Electrica.
 
-<div style="text-align: justify">Un modelo XGBoost construido en IBM Watson, el cual contiene atributos de clima, ubicacion geografica, tiempos de atencion. Actualmente se utiliza para predicir el tiempo que el cliente estara sin suministro, 15 min de haber llamado por su indisposicion electrica. La implementacion del Modelo fue realizado con Node-Red generando microservicios, En marzo del 2021 habia generado mas de 12.000.000 de predicciones donde el 75% de estas predicciones el cliente recibio una hora de reposicion positiva.</div>
+<div style="text-align: justify">Un modelo XGBoost construido en IBM Watson, el cual contiene atributos de clima, ubicacion geografica, tiempos de atencion. Actualmente se utiliza para predicir el tiempo que el cliente estara sin suministro, 15 min de haber llamado por su indisposicion electrica. La implementacion del Modelo fue realizado con Node-Red generando microservicios. En marzo del 2021 habia generado mas de 12.000.000 de predicciones donde el 75% de estas predicciones el cliente recibio una hora de reposicion positiva.</div>
 <br>
 <center><img src="images/xgboost.jpg"/></center>
 <br>
