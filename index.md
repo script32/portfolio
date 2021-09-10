@@ -71,16 +71,6 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 <br>
 
 ---
----
-### Skills
-
-<div style="text-align: justify"></div>
-<br>
-<center><img src="images/Skills.png"/></center>
-<br>
-
----
-
 
 ## Workshop Invierno 2020 UACH
 
@@ -124,6 +114,15 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 <br>
 
 <center><img src="images/Optelos.jpeg"/></center>
+
+---
+
+### Skills
+
+<div style="text-align: justify"></div>
+<br>
+<center><img width="50%" src="images/Skills.png"/></center>
+<br>
 
 ---
 
