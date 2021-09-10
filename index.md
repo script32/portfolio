@@ -71,6 +71,17 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 <br>
 
 ---
+---
+### Skills
+
+<div style="text-align: justify"></div>
+<br>
+<center><img src="images/Skills.png"/></center>
+<br>
+
+---
+
+
 ## Workshop Invierno 2020 UACH
 
 [![Ver Evento](https://img.shields.io/badge/YouTube-Ver_Evento-grey?logo=youtube&labelColor=FF0000)](https://youtu.be/XnX3HJDSIgU?t=8905)
