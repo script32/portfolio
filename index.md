@@ -1,9 +1,53 @@
 # Portfolio
+
+## Rol de IT Business Partner
+<div style="text-align: justify">Este rol está orientado a entender las necesidades del negocio y transformarlas en un proyecto de tecnología liderando los equipos de arquitectura, desarrollo, operaciones, presupuesto. Con mitología ágil o tradicional.</div>
+<br>
+---
+
+### Proyectos de Desarrollo
+<div style="text-align: justify"></div>
+
+
+<br>
+
+### Proyectos de gestión de fuerza de trabajo
+<div style="text-align: justify"></div>
+<br>
+
+### Proyectos de SAP
+<div style="text-align: justify"></div>
+<br>
+
+
+### Proyectos de gestión de activos
+<div style="text-align: justify"></div>
+<br>
+
+### Analisis de Vegetacion con Inteligencia Artificial.
+<div style="text-align: justify">Proyecto orientado a la inspección por medio de imágenes satelitales 11.500 kilómetros de líneas eléctricas, detectando la vegetación que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
+<br>
+
+<center><img src="images/Arbol.jpeg"/></center>
+
+
+---
+
+---
+### Análisis de Activos imágenes de Drones.
+<div style="text-align: justify">implementación de la plataforma Optelos, la cual se entrenan cerebros de inteligencia artificial, en el cual puedes entrenar el mismo negocio, esto utiliza la novedosa herramienta de neurala, también se puede conectar con los servicios de Microsoft, actualmente tiene alojado más de 300.000 imágenes de inspecciones de activos</div>
+<br>
+
+<center><img src="images/Optelos.jpeg"/></center>
+
+---
+
+
 ## Data Science
 
 ### Modelo Predictivo de Tiempo Estimado de Reposicion Electrica.
 
-<div style="text-align: justify">Un modelo XGBoost construido en IBM Watson, el cual contiene atributos de clima, ubicacion geografica, tiempos de atencion. Actualmente se utiliza para predicir el tiempo que el cliente estara sin suministro, 15 min de haber llamado por su indisposicion electrica. La implementacion del Modelo fue realizado con Node-Red generando microservicios. En marzo del 2021 habia generado mas de 12.000.000 de predicciones donde el 75% de estas predicciones el cliente recibio una hora de reposicion positiva.</div>
+<div style="text-align: justify">Un modelo XGBoost construido en IBM Watson, el cual contiene atributos de clima, ubicación geográfica, tiempos de atención. Actualmente se utiliza para predecir el tiempo que el cliente estará sin suministro, 15 min de haber llamado por su indisposición eléctrica. La implementación del Modelo fue realizado con Node-Red generando microservicios. En marzo del 2021 había generado más de 12.000.000 de predicciones donde el 85% de estas predicciones el cliente recibió una hora de reposición positiva.</div>
 <br>
 <center><img src="images/xgboost.jpg"/></center>
 <br>
@@ -13,17 +57,17 @@
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Abrir_Notebook-blue?logo=Jupyter)](https://www.kaggle.com/crprpr/vaccine-data-filter)
 
-<div style="text-align: justify">En esta competencia genere un Notebook con un procedimiento de busqueda de metadatos dentro de las publicaciones de medicina para ayudar a encontrar relaciones en condiciones que afectaba el virus, utilizando la libreria nltk </div>
+<div style="text-align: justify">En esta competencia genere un Notebook con un procedimiento de busqueda de metadatos dentro de las publicaciones de medicina para ayudar a encontrar relaciones en condiciones que afectaba el virus, utilizando la librería nltk </div>
 <br>
 <center><img src="images/nltk.png"/></center>
 <br>
 
 ---
-### Prediccion de Demanda de Energia Electrica en Instalaciones.
+### Predicción de Demanda de energía eléctrica en Instalaciones.
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Iniciar_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0#scrollTo=_O0XCzPYz0n6)
 
-<div style="text-align: justify">En este cuaderno se genera un modelo para predecir el rendimiento energético segun tipo de instalación y con datos climaticos. Utilizando tecnicas de regresion con un modelo LGB</div>
+<div style="text-align: justify">En este cuaderno se genera un modelo para predecir el rendimiento energético segun tipo de instalación y con datos climáticos. Utilizando técnicas de regresión con un modelo LGB</div>
 <br>
 <center><img src="images/demand1.png"/></center>
 <br>
@@ -96,26 +140,6 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 ---
 
-## Rol de IT Business Partner
-
----
-### Analisis de Vegetacion con Inteligencia Artificial.
-<div style="text-align: justify">Proyecto orientado a la inspeccion por medio de imagenes satelitales 11.500 Kilometros de Lineas electricas, detectando la vegetacion que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
-<br>
-
-<center><img src="images/Arbol.jpeg"/></center>
-
-
----
-
----
-### Analisis de Activos Imagenes de Drones.
-<div style="text-align: justify">Implementacion de la plataforma Optelos, la cual se entrenan cerebros de inteligencia artificial, en el cual puedes entrenar el mismo negocio, esto utiliza la novedosa herramienta de neurala, tambien se puede conectar con los servicios de Microsoft, actualmente tiene alojado mas de 300.000 imagenes de inspecciones de activos</div>
-<br>
-
-<center><img src="images/Optelos.jpeg"/></center>
-
----
 
 ### Skills
 
