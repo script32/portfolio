@@ -5,7 +5,7 @@
 <br>
 
 ### Proyectos de Desarrollo
-<div style="text-align: justify"></div>
+<div style="text-align: justify">
 En los proyectos de desarrollo en este Rol, he participado en más de 40 proyectos, los cuales están orientado al desarrollo de soluciones ya sea nuevas plataformas o desarrollos sobre los sistemas legados.
 
     La tecnología utilizada:
@@ -13,6 +13,7 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
     - Base de datos: SQL Server, CloudAnt, Mysql, Postgresql.
     - Front End: Angular, NodeJs, React.
     - Back End: Angular, NodeJs, .Net Core.
+</div>
 
 <br>
 
@@ -21,8 +22,9 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 ---
 
 ### Proyectos de gestión de fuerza de trabajo
-<div style="text-align: justify"></div>
+<div style="text-align: justify">
     He implementado la plataforma Synchroteam para administrar la gestión de la fuerza de trabajo en terreno, para más de 300 Brigadas en terreno. La cual también permite la trazabilidad de los activos, recursos y materiales.
+</div>
 <br>
 
 <center><img src="images/sync.jpg"/></center>
@@ -30,7 +32,7 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 ---
 
 ### Proyectos de SAP
-<div style="text-align: justify"></div>
+<div style="text-align: justify">
     He liderado y participado en distintas implementaciones de los módulos:
 
     - SAP PM
@@ -42,6 +44,7 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
     - integración de valoración de presupuestos.
     - Automatización de Planes de Mantenimiento.
     - integración C4C y OMS.
+</div>
 <br>
 
 <center><img src="images/sap.jpg"/></center>
