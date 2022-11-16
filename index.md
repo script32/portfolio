@@ -1,28 +1,48 @@
 # Portfolio
 
 ## Rol de IT Business Partner
-<div style="text-align: justify">Este rol está orientado a entender las necesidades del negocio y transformarlas en un proyecto de tecnología liderando los equipos de arquitectura, desarrollo, operaciones, presupuesto. Con mitología ágil o tradicional.</div>
+<div style="text-align: justify">Este rol está orientado a entender las necesidades del negocio  y transformarlas en un proyecto de tecnología liderando los equipos de arquitectura, desarrollo, operaciones, presupuesto. Con mitología ágil o tradicional. </div>
 <br>
----
 
 ### Proyectos de Desarrollo
 <div style="text-align: justify"></div>
+En los proyectos de desarrollo en este Rol, he participado en más de 40 proyectos, los cuales están orientado al desarrollo de soluciones ya sea nuevas plataformas o desarrollos sobre los sistemas legados.
 
+    La tecnología utilizada:
+    - Infraestructura en la Nube: Azure, IBM Cloud, AWS, Google Cloud.
+    - Base de datos: SQL Server, CloudAnt, Mysql, Postgresql.
+    - Front End: Angular, NodeJs, React.
+    - Back End: Angular, NodeJs, .Net Core.
 
 <br>
+
+<center><img src="images/agile.jpeg"/></center>
 
 ### Proyectos de gestión de fuerza de trabajo
 <div style="text-align: justify"></div>
+    He implementado la plataforma Synchroteam para administrar la gestión de la fuerza de trabajo en terreno, para más de 300 Brigadas en terreno. La cual también permite la trazabilidad de los activos, recursos y materiales.
 <br>
+
+<center><img src="images/sync.jpg"/></center>
+
 
 ### Proyectos de SAP
 <div style="text-align: justify"></div>
+    He liderado y participado en distintas implementaciones de los módulos:
+
+    - SAP PM
+    - SAP PS
+
+    También en integraciones y configuraciones como:
+
+    - Liquidación automática de activos en proyectos.
+    - integración de valoración de presupuestos.
+    - Automatización de Planes de Mantenimiento.
+    - integración C4C y OMS.
 <br>
 
+<center><img src="images/sap.jpg"/></center>
 
-### Proyectos de gestión de activos
-<div style="text-align: justify"></div>
-<br>
 
 ### Analisis de Vegetacion con Inteligencia Artificial.
 <div style="text-align: justify">Proyecto orientado a la inspección por medio de imágenes satelitales 11.500 kilómetros de líneas eléctricas, detectando la vegetación que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
