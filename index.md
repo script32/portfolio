@@ -175,6 +175,6 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 ---
 
-<center>© 2021 Cristian Rodriguez. Powered by Jekyll.</center>
+<center>© 2022 Cristian Rodriguez. Powered by Jekyll.</center>
 
 ---
