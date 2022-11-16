@@ -18,6 +18,8 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 
 <center><img src="images/agile.jpeg"/></center>
 
+---
+
 ### Proyectos de gestión de fuerza de trabajo
 <div style="text-align: justify"></div>
     He implementado la plataforma Synchroteam para administrar la gestión de la fuerza de trabajo en terreno, para más de 300 Brigadas en terreno. La cual también permite la trazabilidad de los activos, recursos y materiales.
@@ -25,6 +27,7 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 
 <center><img src="images/sync.jpg"/></center>
 
+---
 
 ### Proyectos de SAP
 <div style="text-align: justify"></div>
@@ -43,6 +46,7 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 
 <center><img src="images/sap.jpg"/></center>
 
+---
 
 ### Analisis de Vegetacion con Inteligencia Artificial.
 <div style="text-align: justify">Proyecto orientado a la inspección por medio de imágenes satelitales 11.500 kilómetros de líneas eléctricas, detectando la vegetación que tiene peligro o es necesario generar un trabajo en terreno a mediano plazo, generando beneficios de 9 MM USD.</div>
@@ -50,10 +54,8 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 
 <center><img src="images/Arbol.jpeg"/></center>
 
-
 ---
 
----
 ### Análisis de Activos imágenes de Drones.
 <div style="text-align: justify">implementación de la plataforma Optelos, la cual se entrenan cerebros de inteligencia artificial, en el cual puedes entrenar el mismo negocio, esto utiliza la novedosa herramienta de neurala, también se puede conectar con los servicios de Microsoft, actualmente tiene alojado más de 300.000 imágenes de inspecciones de activos</div>
 <br>
