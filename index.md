@@ -8,11 +8,11 @@
 <div style="text-align: justify">
 En los proyectos de desarrollo en este Rol, he participado en más de 40 proyectos, los cuales están orientado al desarrollo de soluciones ya sea nuevas plataformas o desarrollos sobre los sistemas legados.
 
-    La tecnología utilizada:
-    - Infraestructura en la Nube: Azure, IBM Cloud, AWS, Google Cloud.
-    - Base de datos: SQL Server, CloudAnt, Mysql, Postgresql.
-    - Front End: Angular, NodeJs, React.
-    - Back End: Angular, NodeJs, .Net Core.
+La tecnología utilizada:
+- **Infraestructura en la Nube: Azure, IBM Cloud, AWS, Google Cloud**.
+- **Base de datos: SQL Server, CloudAnt, Mysql, Postgresql**.
+- **Front End: Angular, NodeJs, React**.
+- **Back End: Angular, NodeJs, .Net Core**.
 </div>
 
 <br>
@@ -20,10 +20,30 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 <center><img src="images/agile.jpeg"/></center>
 
 ---
+### Librería SSIS SAP CO: Exploración y Consultas Simples
+<div style="text-align: justify"> Este proyecto, desarrollado en C#, tiene como objetivo simplificar la interacción con las tablas SAP desde entornos de integración como SSIS (SQL Server Integration Services). La librería permite a los usuarios explorar de manera sencilla las tablas de SAP, generando consultas avanzadas y operaciones como joins sin necesidad de escribir código extenso o realizar configuraciones complejas.
+
+Funcionalidades principales:
+- **Exploración de tablas SAP**: Facilita la búsqueda y visualización de datos almacenados en las tablas SAP.
+- **Generación de consultas personalizadas**: Crea consultas SQL optimizadas para filtrar, ordenar y transformar datos directamente desde SSIS.
+- **Soporte para operaciones avanzadas**: Permite realizar joins y otras operaciones relacionales complejas de manera intuitiva.
+- **Integración fluida con SSIS**: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).
+
+</div> <br> <center><img src="images/SSIS sources-final.png"/></center>
+
+
+<br>
+
+<center><img src="images/sync.jpg"/></center>
+
+---
+
+
+
 
 ### Proyectos de gestión de fuerza de trabajo
 <div style="text-align: justify">
-    He implementado la plataforma Synchroteam para administrar la gestión de la fuerza de trabajo en terreno, para más de 300 Brigadas en terreno. La cual también permite la trazabilidad de los activos, recursos y materiales.
+ He implementado la plataforma Synchroteam para administrar la gestión de la fuerza de trabajo en terreno, para más de 300 Brigadas en terreno. La cual también permite la trazabilidad de los activos, recursos y materiales.
 </div>
 <br>
 
@@ -33,17 +53,17 @@ En los proyectos de desarrollo en este Rol, he participado en más de 40 proyect
 
 ### Proyectos de SAP
 <div style="text-align: justify">
-    He liderado y participado en distintas implementaciones de los módulos:
+He liderado y participado en distintas implementaciones de los módulos:
 
-    - SAP PM
-    - SAP PS
+- **SAP PM**
+    - **SAP PS**
 
-    También en integraciones y configuraciones como:
+También en integraciones y configuraciones como:
 
-    - Liquidación automática de activos en proyectos.
-    - integración de valoración de presupuestos.
-    - Automatización de Planes de Mantenimiento.
-    - integración C4C y OMS.
+- **Liquidación automática de activos en proyectos**.
+- **integración de valoración de presupuestos**.
+- **Automatización de Planes de Mantenimiento**.
+- **integración C4C y OMS**.
 </div>
 <br>
 
@@ -170,11 +190,22 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 <div style="text-align: justify"></div>
 <br>
-<center><img width="30%" src="images/Skills.png"/></center>
+<div style="text-align: justify"> 
+    <table style="width:100%; border-collapse: collapse;">
+        <tr style="background-color:#f2f2f2;">
+            <th style="padding: 10px; text-align: center;">Categoría</th>
+            <th style="padding: 10px; text-align: center;">Tecnologías</th>
+            <th style="padding: 10px; text-align: center;">Nivel</th>
+        </tr> 
+            <tr> 
+                <td style="padding: 10px; text-align: center;">Lenguajes de Programación</td> 
+                <td style="padding: 10px; text-align: center;"> <img src="images/icons/csharp.png" alt="C#" width="40px" /> C# | <img src="images/icons/python.png" alt="Python" width="40px" /> Python | <img src="images/icons/js.png" alt="JavaScript" width="40px" /> JavaScript </td> <td style="padding: 10px; text-align: center;">Experto</td> </tr> <tr> <td style="padding: 10px; text-align: center;">Bases de Datos</td> <td style="padding: 10px; text-align: center;"> <img src="images/icons/sqlserver.png" alt="SQL Server" width="40px" /> SQL Server | <img src="images/icons/postgresql.png" alt="PostgreSQL" width="40px" /> PostgreSQL | <img src="images/icons/mysql.png" alt="MySQL" width="40px" /> MySQL </td> <td style="padding: 10px; text-align: center;">Avanzado</td> </tr> 
+                <tr style="background-color:#f2f2f2;"> <td style="padding: 10px; text-align: center;">Nube e Infraestructura</td> <td style="padding: 10px; text-align: center;"> <img src="images/icons/azure.png" alt="Azure" width="40px" /> Azure | <img src="images/icons/aws.png" alt="AWS" width="40px" /> AWS | <img src="images/icons/gcloud.png" alt="Google Cloud" width="40px" /> Google Cloud </td> <td style="padding: 10px; text-align: center;">Avanzado</td> </tr> 
+                <tr> <td style="padding: 10px; text-align: center;">Frameworks y Librerías</td> <td style="padding: 10px; text-align: center;"> <img src="images/icons/angular.png" alt="Angular" width="40px" /> Angular | <img src="images/icons/react.png" alt="React" width="40px" /> React | <img src="images/icons/nodejs.png" alt="Node.js" width="40px" /> Node.js </td> <td style="padding: 10px; text-align: center;">Intermedio</td> </tr> </table> </div>
 <br>
 
 ---
 
-<center>© 2022 Cristian Rodriguez. Powered by Jekyll.</center>
+<center>© 2024 Cristian Rodriguez. Powered by Jekyll.</center>
 
 ---
