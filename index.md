@@ -200,17 +200,17 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
             <tr> 
                 <td style="padding: 10px; text-align: center;">Lenguajes de Programación</td> 
                 <td style="padding: 10px; text-align: center;"> 
-                    <img src="images/icons/csharp.png" alt="C#" width="40px" /> C# | 
-                    <img src="images/icons/python.png" alt="Python" width="40px" /> Python | 
-                    <img src="images/icons/js.png" alt="JavaScript" width="40px" /> JavaScript </td> 
+                    <img src="images/icons/csharp.png" alt="C#" width="40px" height="40px" /> C# | 
+                    <img src="images/icons/python.png" alt="Python" width="40px" height="40px" /> Python | 
+                    <img src="images/icons/js.png" alt="JavaScript" width="40px" height="40px" /> JavaScript </td> 
                 <td style="padding: 10px; text-align: center;">Experto</td> 
                 </tr> 
                 <tr> 
                     <td style="padding: 10px; text-align: center;">Bases de Datos</td> 
                 <td style="padding: 10px; text-align: center;"> 
-                    <img src="images/icons/sqlserver.png" alt="SQL Server" width="40px" /> SQL Server | 
-                    <img src="images/icons/postgresql.png" alt="PostgreSQL" width="40px" /> PostgreSQL | 
-                    <img src="images/icons/mysql.png" alt="MySQL" width="40px" /> MySQL </td> <td style="padding: 10px; text-align: center;">Avanzado</td> 
+                    <img src="images/icons/sqlserver.png" alt="SQL Server" width="40px" height="40px" /> SQL Server | 
+                    <img src="images/icons/postgresql.png" alt="PostgreSQL" width="40px" height="40px" /> PostgreSQL | 
+                    <img src="images/icons/mysql.png" alt="MySQL" width="40px" height="40px" /> MySQL </td> <td style="padding: 10px; text-align: center;">Avanzado</td> 
                 </tr> 
                 <tr style="background-color:#f2f2f2;"> 
                     <td style="padding: 10px; text-align: center;">Nube e Infraestructura</td> 
