@@ -187,46 +187,79 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
 
 
 ### Skills
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin: 20px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  tr {
+    border-bottom: 1px solid #ddd;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+
+  td {
+    font-size: 1em;
+    color: #333;
+  }
+</style>
 
 <div style="text-align: justify"></div>
 <br>
 <div style="text-align: justify"> 
-    <table style="width:100%; border-collapse: collapse;">
-        <tr style="background-color:#f2f2f2;">
-            <th style="padding: 10px; text-align: center;">Categoría</th>
-            <th style="padding: 10px; text-align: center;">Tecnologías</th>
-            <th style="padding: 10px; text-align: center;">Nivel</th>
-        </tr> 
-            <tr> 
-                <td style="padding: 10px; text-align: center;">Lenguajes de Programación</td> 
-                <td style="padding: 10px; text-align: center;"> 
-                    <img src="images/icons/csharp.png" alt="C#" width="40px" height="40px" /> C# | 
-                    <img src="images/icons/python.png" alt="Python" width="40px" height="40px" /> Python | 
-                    <img src="images/icons/js.png" alt="JavaScript" width="40px" height="40px" /> JavaScript </td> 
-                <td style="padding: 10px; text-align: center;">Experto</td> 
-                </tr> 
-                <tr> 
-                    <td style="padding: 10px; text-align: center;">Bases de Datos</td> 
-                <td style="padding: 10px; text-align: center;"> 
-                    <img src="images/icons/sqlserver.png" alt="SQL Server" width="40px" height="40px" /> SQL Server | 
-                    <img src="images/icons/postgresql.png" alt="PostgreSQL" width="40px" height="40px" /> PostgreSQL | 
-                    <img src="images/icons/mysql.png" alt="MySQL" width="40px" height="40px" /> MySQL </td> <td style="padding: 10px; text-align: center;">Avanzado</td> 
-                </tr> 
-                <tr style="background-color:#f2f2f2;"> 
-                    <td style="padding: 10px; text-align: center;">Nube e Infraestructura</td> 
-                    <td style="padding: 10px; text-align: center;"> 
-                        <img src="images/icons/azure.png" alt="Azure" width="40px" /> Azure |
-                         <img src="images/icons/aws.png" alt="AWS" width="40px" /> AWS | 
-                         <img src="images/icons/gcloud.png" alt="Google Cloud" width="40px" /> Google Cloud </td> 
-                    <td style="padding: 10px; text-align: center;">Avanzado</td> </tr> 
-                <tr> <td style="padding: 10px; text-align: center;">Frameworks y Librerías</td> 
-                    <td style="padding: 10px; text-align: center;"> 
-                        <img src="images/icons/angular.png" alt="Angular" width="40px" /> Angular | 
-                        <img src="images/icons/react.png" alt="React" width="40px" /> React | 
-                        <img src="images/icons/nodejs.png" alt="Node.js" width="40px" /> Node.js </td> 
-                    <td style="padding: 10px; text-align: center;">Intermedio</td> 
-            </tr> 
-    </table> 
+    <table>
+  <thead>
+    <tr>
+      <th>Categoría</th>
+      <th>Tecnologías</th>
+      <th>Nivel</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Lenguajes de Programación</td>
+      <td>C#, Python, JavaScript</td>
+      <td>Experto</td>
+    </tr>
+    <tr>
+      <td>Bases de Datos</td>
+      <td>SQL Server, PostgreSQL, MySQL</td>
+      <td>Avanzado</td>
+    </tr>
+    <tr>
+      <td>Nube e Infraestructura</td>
+      <td>Azure, AWS, Google Cloud</td>
+      <td>Avanzado</td>
+    </tr>
+    <tr>
+      <td>Frameworks y Librerías</td>
+      <td>Angular, React, Node.js</td>
+      <td>Intermedio</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <br>
 
