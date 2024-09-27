@@ -8,11 +8,14 @@
 <div style="text-align: justify">
 En los proyectos de desarrollo en este Rol, he participado en más de 40 proyectos, los cuales están orientado al desarrollo de soluciones ya sea nuevas plataformas o desarrollos sobre los sistemas legados.
 
-La tecnología utilizada:
-- **Infraestructura en la Nube: Azure, IBM Cloud, AWS, Google Cloud**.
-- **Base de datos: SQL Server, CloudAnt, Mysql, Postgresql**.
-- **Front End: Angular, NodeJs, React**.
-- **Back End: Angular, NodeJs, .Net Core**.
+<ul>
+    <li>La tecnología utilizada:</li>
+    <li>Infraestructura en la Nube: Azure, IBM Cloud, AWS, Google Cloud.</li>
+    <li>Base de datos: SQL Server, CloudAnt, Mysql, Postgresql.</li>
+    <li>Front End: Angular, NodeJs, React.</li>
+    <li>Back End: Angular, NodeJs, .Net Core.</li>
+</ul>
+
 </div>
 
 <br>
@@ -24,11 +27,11 @@ La tecnología utilizada:
 <div style="text-align: justify"> Este proyecto, desarrollado en C#, tiene como objetivo simplificar la interacción con las tablas SAP desde entornos de integración como SSIS (SQL Server Integration Services). La librería permite a los usuarios explorar de manera sencilla las tablas de SAP, generando consultas avanzadas y operaciones como joins sin necesidad de escribir código extenso o realizar configuraciones complejas.
 
 <ul>
-<li>Funcionalidades principales</li>
-<li>-Exploración de tablas SAP: Facilita la búsqueda y visualización de datos almacenados en las tablas SAP.</li>
-<li>-Generación de consultas personalizadas: Crea consultas SQL optimizadas para filtrar, ordenar y transformar datos directamente desde SSIS.</li>
-<li>-Soporte para operaciones avanzadas: Permite realizar joins y otras operaciones relacionales complejas de manera intuitiva.</li>
-<li>-Integración fluida con SSIS: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).</li>
+    <li>Funcionalidades principales</li>
+    <li>Exploración de tablas SAP: Facilita la búsqueda y visualización de datos almacenados en las tablas SAP.</li>
+    <li>Generación de consultas personalizadas: Crea consultas SQL optimizadas para filtrar, ordenar y transformar datos directamente desde SSIS.</li>
+    <li>Soporte para operaciones avanzadas: Permite realizar joins y otras operaciones relacionales complejas de manera intuitiva.</li>
+    <li>Integración fluida con SSIS: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).</li>
 </ul>
 
 </div> <br> <center><img src="images/SSIS sources-final.png"/></center>
@@ -39,12 +42,15 @@ La tecnología utilizada:
 ### Sharepoint Gestión del Conocimiento con React y SPFx
 <div style="text-align: justify"> Este proyecto está orientado a la gestión del conocimiento dentro de una empresa multinacional, utilizando React junto con el framework SPFx de SharePoint. El objetivo principal es centralizar y optimizar el acceso a la información, facilitando la colaboración y la transferencia de conocimientos entre los equipos globales. 
 
-Funcionalidades principales: 
-- **Interfaz de usuario moderna**: Desarrollo de una interfaz altamente intuitiva y responsiva utilizando React, mejorando la experiencia de usuario en la gestión de documentos y recursos. 
-- **Integración con SharePoint**: Aprovechando las capacidades de SPFx para una integración nativa con SharePoint, permitiendo la gestión y visualización de documentos, bibliotecas, y listas de forma eficiente. 
-- **Componentes personalizados**: Desarrollo de componentes reutilizables y modulares para el manejo de datos, vistas personalizadas y paneles de control interactivos. 
-- **Seguridad y permisos**: Implementación de permisos granulares y control de acceso basado en roles, asegurando que solo los usuarios autorizados puedan acceder a la información sensible. 
-- **Búsqueda avanzada**: Uso de Graph API y otras tecnologías para mejorar las capacidades de búsqueda dentro de la plataforma, permitiendo la rápida localización de recursos y conocimiento relevante. 
+<ul>
+    <li>Funcionalidades principales:</li>
+    <li>Interfaz de usuario moderna: Desarrollo de una interfaz altamente intuitiva y responsiva utilizando React, mejorando la experiencia de usuario en la gestión de documentos y recursos.</li> 
+    <li>Integración con SharePoint: Aprovechando las capacidades de SPFx para una integración nativa con SharePoint, permitiendo la gestión y visualización de documentos, bibliotecas, y listas de forma eficiente. </li>
+    <li>Componentes personalizados: Desarrollo de componentes reutilizables y modulares para el manejo de datos, vistas personalizadas y paneles de control interactivos. </li>
+    <li>Seguridad y permisos: Implementación de permisos granulares y control de acceso basado en roles, asegurando que solo los usuarios autorizados puedan acceder a la información sensible. </li>
+    <li>Búsqueda avanzada: Uso de Graph API y otras tecnologías para mejorar las capacidades de búsqueda dentro de la plataforma, permitiendo la rápida localización de recursos y conocimiento relevante. </li>
+</ul>
+
 </div> 
 <br> <center><img src="images/sharepoint.png" alt="React SPFx Project"/></center>
 <br>
@@ -69,10 +75,12 @@ He liderado y participado en distintas implementaciones de los módulos:
 
 También en integraciones y configuraciones como:
 
-- **Liquidación automática de activos en proyectos**.
-- **integración de valoración de presupuestos**.
-- **Automatización de Planes de Mantenimiento**.
-- **integración C4C y OMS**.
+<ul>
+    <li>Liquidación automática de activos en proyectos.</li>
+    <li>integración de valoración de presupuestos.</li>
+    <li>Automatización de Planes de Mantenimiento.</li>
+    <li>integración C4C y OMS.</li>
+</ul>
 </div>
 <br>
 
