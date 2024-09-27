@@ -23,11 +23,13 @@ La tecnología utilizada:
 ### Librería SSIS SAP CO: Exploración y Consultas Simples
 <div style="text-align: justify"> Este proyecto, desarrollado en C#, tiene como objetivo simplificar la interacción con las tablas SAP desde entornos de integración como SSIS (SQL Server Integration Services). La librería permite a los usuarios explorar de manera sencilla las tablas de SAP, generando consultas avanzadas y operaciones como joins sin necesidad de escribir código extenso o realizar configuraciones complejas.
 
-Funcionalidades principales:
--Exploración de tablas SAP: Facilita la búsqueda y visualización de datos almacenados en las tablas SAP.
--Generación de consultas personalizadas: Crea consultas SQL optimizadas para filtrar, ordenar y transformar datos directamente desde SSIS.
--Soporte para operaciones avanzadas: Permite realizar joins y otras operaciones relacionales complejas de manera intuitiva.
--Integración fluida con SSIS: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).
+<ul>
+<li>Funcionalidades principales</li>
+<li>-Exploración de tablas SAP: Facilita la búsqueda y visualización de datos almacenados en las tablas SAP.</li>
+<li>-Generación de consultas personalizadas: Crea consultas SQL optimizadas para filtrar, ordenar y transformar datos directamente desde SSIS.</li>
+<li>-Soporte para operaciones avanzadas: Permite realizar joins y otras operaciones relacionales complejas de manera intuitiva.</li>
+<li>-Integración fluida con SSIS: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).</li>
+</ul>
 
 </div> <br> <center><img src="images/SSIS sources-final.png"/></center>
 <br>
