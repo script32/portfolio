@@ -30,16 +30,23 @@ Funcionalidades principales:
 - **Integración fluida con SSIS**: Diseñado para integrarse completamente con los flujos de trabajo de SSIS, lo que facilita la automatización de procesos de ETL (Extract, Transform, Load).
 
 </div> <br> <center><img src="images/SSIS sources-final.png"/></center>
-
-
 <br>
-
-<center><img src="images/sync.jpg"/></center>
 
 ---
 
+### Sharepoint Gestión del Conocimiento con React y SPFx
+<div style="text-align: justify"> Este proyecto está orientado a la gestión del conocimiento dentro de una empresa multinacional, utilizando React junto con el framework SPFx de SharePoint. El objetivo principal es centralizar y optimizar el acceso a la información, facilitando la colaboración y la transferencia de conocimientos entre los equipos globales. 
 
-
+Funcionalidades principales: 
+- **Interfaz de usuario moderna**: Desarrollo de una interfaz altamente intuitiva y responsiva utilizando React, mejorando la experiencia de usuario en la gestión de documentos y recursos. 
+- **Integración con SharePoint**: Aprovechando las capacidades de SPFx para una integración nativa con SharePoint, permitiendo la gestión y visualización de documentos, bibliotecas, y listas de forma eficiente. 
+- **Componentes personalizados**: Desarrollo de componentes reutilizables y modulares para el manejo de datos, vistas personalizadas y paneles de control interactivos. 
+- **Seguridad y permisos**: Implementación de permisos granulares y control de acceso basado en roles, asegurando que solo los usuarios autorizados puedan acceder a la información sensible. 
+- **Búsqueda avanzada**: Uso de Graph API y otras tecnologías para mejorar las capacidades de búsqueda dentro de la plataforma, permitiendo la rápida localización de recursos y conocimiento relevante. 
+</div> 
+<br> <center><img src="images/sharepoint.png" alt="React SPFx Project"/></center>
+<br>
+---
 
 ### Proyectos de gestión de fuerza de trabajo
 <div style="text-align: justify">
@@ -255,8 +262,8 @@ Una implementación completa de asignaciones y proyectos en [***CS224n: Natural 
     </tr>
     <tr>
       <td>Frameworks y Librerías</td>
-      <td>Angular, React, Node.js</td>
-      <td>Intermedio</td>
+      <td>.Net, Angular, React, Node.js</td>
+      <td>Avanzado</td>
     </tr>
   </tbody>
 </table>
