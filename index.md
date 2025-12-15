@@ -91,7 +91,7 @@ Los sistemas actuales en empresas de servicios públicos operan en <strong>silos
   <span class="tech-badge">Cloud Native</span>
 </div>
 
-[![Ver en GitHub](https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&style=for-the-badge)](https://github.com/script32/smart_agent_utility)
+<a href="https://github.com/script32/smart_agent_utility" target="_blank"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 </div>
 
@@ -293,7 +293,7 @@ Liderazgo en implementaciones de módulos <strong>SAP PM</strong> (Plant Mainten
 <div class="project-card">
 <h3>COVID-19 Research Challenge - Kaggle</h3>
 
-[![Open Notebook](https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/crprpr/vaccine-data-filter)
+<a href="https://www.kaggle.com/crprpr/vaccine-data-filter" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge" alt="Ver Notebook"/></a>
 
 <div style="text-align: justify">
 Notebook para búsqueda de metadatos en publicaciones médicas utilizando <strong>NLP</strong> para encontrar relaciones en condiciones afectadas por el virus.
@@ -309,7 +309,7 @@ Notebook para búsqueda de metadatos en publicaciones médicas utilizando <stron
 <div class="project-card">
 <h3>Predicción de Demanda Energética</h3>
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Ejecutar_Notebook-F9AB00?logo=googlecolab&style=for-the-badge)](https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0)
+<a href="https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0" target="_blank"><img src="https://img.shields.io/badge/Colab-Ejecutar_Notebook-F9AB00?logo=googlecolab&style=for-the-badge" alt="Ejecutar en Colab"/></a>
 
 <div style="text-align: justify">
 Modelo <strong>LightGBM</strong> para predecir rendimiento energético según tipo de instalación y datos climáticos.
@@ -325,7 +325,7 @@ Modelo <strong>LightGBM</strong> para predecir rendimiento energético según ti
 <div class="project-card">
 <h3>Reconocimiento Facial - API + Web Platform</h3>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge)](https://github.com/script32/face)
+<a href="https://github.com/script32/face" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Sistema completo de reconocimiento facial con API REST y plataforma web. Utiliza <strong>PostgreSQL con CUDA</strong> para almacenar embeddings faciales con alto rendimiento.
@@ -344,7 +344,7 @@ Sistema completo de reconocimiento facial con API REST y plataforma web. Utiliza
 <div class="project-card">
 <h3>CS224n: NLP con Deep Learning - Stanford</h3>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge)](https://github.com/script32/CS224n-NLP)
+<a href="https://github.com/script32/CS224n-NLP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Implementación completa del curso de Stanford. Incluye sistema de <strong>Traducción Automática Neuronal</strong> (NMT) español-inglés con encoder LSTM bidireccional y decoder con atención multiplicativa.
@@ -363,7 +363,7 @@ Implementación completa del curso de Stanford. Incluye sistema de <strong>Tradu
 <div class="project-card">
 <h3>Análisis de Sentimiento - Detección de Toxicidad</h3>
 
-[![Run in Kaggle](https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers)
+<a href="https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge" alt="Ver en Kaggle"/></a>
 
 <div style="text-align: justify">
 Modelos de ML para identificar toxicidad en conversaciones online utilizando <strong>BERT</strong> y Transformers.
@@ -381,7 +381,7 @@ Modelos de ML para identificar toxicidad en conversaciones online utilizando <st
 <div class="project-card">
 <h3>Biblioteca de Modelos ML - Python & R</h3>
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge)](https://github.com/script32/Modelos-ML)
+<a href="https://github.com/script32/Modelos-ML" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Repositorio completo con ejemplos de todos los tipos de modelos de Machine Learning, implementados en <strong>Python</strong> y <strong>R</strong> con datasets de ejemplo.
@@ -404,7 +404,7 @@ Repositorio completo con ejemplos de todos los tipos de modelos de Machine Learn
 <div class="project-card">
 <h3>Workshop Invierno 2020 - Universidad Austral de Chile</h3>
 
-[![Ver Evento](https://img.shields.io/badge/YouTube-Ver_Presentación-FF0000?logo=youtube&style=for-the-badge)](https://youtu.be/XnX3HJDSIgU?t=8905)
+<a href="https://youtu.be/XnX3HJDSIgU?t=8905" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ver_Presentaci%C3%B3n-FF0000?logo=youtube&style=for-the-badge" alt="Ver en YouTube"/></a>
 
 <div style="text-align: justify">
 Presentación sobre el viaje de transformación digital: <em>"Cómo las empresas del Sector Utility deben adoptar la Inteligencia Artificial"</em>
@@ -416,8 +416,8 @@ Presentación sobre el viaje de transformación digital: <em>"Cómo las empresas
 <div class="project-card">
 <h3>Workshop Primavera 2020 - Computación Visual</h3>
 
-[![Ver Evento](https://img.shields.io/badge/YouTube-Ver_Presentación-FF0000?logo=youtube&style=for-the-badge)](https://youtu.be/4eFyjwE3bCM?t=5576)
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Ejecutar_Demo-F9AB00?logo=googlecolab&style=for-the-badge)](https://colab.research.google.com/drive/1l4UfnvcbBgybtc16pJcIGuh41ETbXsF3)
+<a href="https://youtu.be/4eFyjwE3bCM?t=5576" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ver_Presentaci%C3%B3n-FF0000?logo=youtube&style=for-the-badge" alt="Ver en YouTube"/></a>
+<a href="https://colab.research.google.com/drive/1l4UfnvcbBgybtc16pJcIGuh41ETbXsF3" target="_blank"><img src="https://img.shields.io/badge/Colab-Ejecutar_Demo-F9AB00?logo=googlecolab&style=for-the-badge" alt="Ejecutar en Colab"/></a>
 
 <div style="text-align: justify">
 Demostración práctica de computación visual con implementación en menos de 20 líneas de código.
