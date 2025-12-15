@@ -66,22 +66,24 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="project-card featured">
 
-### El Desafío de las Operaciones de Campo
+<h3>El Desafío de las Operaciones de Campo</h3>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 Los sistemas actuales en empresas de servicios públicos operan en <strong>silos de datos</strong>. Los trabajadores de campo carecen de inteligencia en tiempo real, dependiendo de información desactualizada que llega con horas o días de retraso. Esto resulta en:
-</div>
+</p>
 
-- Tiempos de respuesta lentos ante emergencias
-- Rutas subóptimas que desperdician recursos
-- Falta de contexto sobre el estado real de los activos
-- Decisiones basadas en datos incompletos
+<ul>
+  <li>Tiempos de respuesta lentos ante emergencias</li>
+  <li>Rutas subóptimas que desperdician recursos</li>
+  <li>Falta de contexto sobre el estado real de los activos</li>
+  <li>Decisiones basadas en datos incompletos</li>
+</ul>
 
-### La Solución: Agentes Autónomos Inteligentes
+<h3>La Solución: Agentes Autónomos Inteligentes</h3>
 
-<div style="text-align: justify">
+<p style="text-align: justify">
 <strong>Smart Agent Utility</strong> es un sistema de agentes autónomos que utiliza la <em>ubicación del trabajador en tiempo real</em> para enviar información contextual proactiva. El agente analiza múltiples fuentes de datos y toma decisiones para empoderar a los equipos de campo.
-</div>
+</p>
 
 <div class="tech-stack">
   <span class="tech-badge">Python</span>
@@ -91,7 +93,7 @@ Los sistemas actuales en empresas de servicios públicos operan en <strong>silos
   <span class="tech-badge">Cloud Native</span>
 </div>
 
-<a href="https://github.com/script32/smart_agent_utility" target="_blank"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
+<a href="https://github.com/script32/smart_agent_utility" target="_blank"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 </div>
 
