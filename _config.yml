@@ -1,21 +1,80 @@
-title: <p align="center"> Cristian Rodriguez</p>
+# =============================================================================
+# Configuración Principal del Sitio
+# =============================================================================
+title: Cristian Rodriguez
+tagline: "Arquitecto de Soluciones Geoespaciales | Smart Agent Utility"
 
 logo: "/images/image.jpg?raw=true"
+url: "https://script32.github.io"
+baseurl: "/portfolio"
 
-description:
-  <p align="center">
-  <a href="https://www.kaggle.com/crprpr/account">Kaggle</a> |
-  <a href="https://www.linkedin.com/in/cristian-rodriguez-546a4150">LinkedIn</a> |
-  <a href="https://github.com/script32">GitHub</a>
+# =============================================================================
+# Información del Autor - SEO y Schema.org
+# =============================================================================
+author:
+  name: Cristian Rodriguez
+  email: ""
+  linkedin: "https://www.linkedin.com/in/cristian-rodriguez-546a4150"
+  github: "https://github.com/script32"
+  kaggle: "https://www.kaggle.com/crprpr/account"
+
+# =============================================================================
+# Descripción Profesional - Narrativa de Arquitecto de Soluciones
+# =============================================================================
+description: |
+  <div class="profile-links">
+    <a href="https://www.linkedin.com/in/cristian-rodriguez-546a4150" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/script32" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/GitHub-Script32-333?logo=github&style=for-the-badge" alt="GitHub"/>
+    </a>
+    <a href="https://www.kaggle.com/crprpr/account" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/Kaggle-Perfil-20BEFF?logo=kaggle&style=for-the-badge" alt="Kaggle"/>
+    </a>
+  </div>
+  
+  <blockquote class="mission-statement">
+  "En un mundo donde la infraestructura crítica genera terabytes de datos espaciales, mi misión es transformar esa información en acción operativa."
+  </blockquote>
+  
+  <p class="bio-text">
+  Como creador de la iniciativa <strong>Smart Agent Utility</strong>, especializo mi práctica en la convergencia de <em>Inteligencia Artificial</em>, <em>Análisis Geoespacial</em> y <em>Operaciones de Campo</em>. No solo escribo código; diseño agentes inteligentes que empoderan a las empresas de servicios públicos para anticipar fallas, optimizar rutas y garantizar la resiliencia de la red.
   </p>
   
-  <p align="justify">
-  Me considero una persona pragmática y proactiva, esto a lo largo de mi trayectoria me ha llevado a ir superando las barreras del conocimiento, no solo la parte tecnología la cual tengo 17 años de experiencia, sino la parte de los negocios, me llevo a titularme de master en global MBA, lo cual me permite entender de forma mas profunda las necesidades de los negocios, buscando mejor experiencia de los clientes o aumentar el nivel de digitalización de las empresas.
-  <br><br>
-  Tengo una larga trayectoria en el Sector Utility, especificamente en Generacion, Transmision, Distribucion y Comercializacion. Llevando proyectos desde la Digitalizacion hasta Inteligencia Artificia. Tambien tengo nivel de Desarrollador FullStack nivel Senior.
-  <br><br>
+  <p class="bio-text">
+  Con más de 17 años de experiencia en el <strong>Sector Utility</strong> (Generación, Transmisión, Distribución y Comercialización) y un <strong>Global MBA</strong>, combino la profundidad técnica de un desarrollador FullStack Senior con la visión estratégica necesaria para liderar la transformación digital.
   </p>
 
-  
+# =============================================================================
+# Tema y Analytics
+# =============================================================================
 theme: jekyll-theme-minimal
-google_analytics: G-J177QW16XN # Google Analytics tracking ID
+google_analytics: G-J177QW16XN
+
+# =============================================================================
+# SEO y Metadatos
+# =============================================================================
+lang: es
+keywords:
+  - Smart Agent Utility
+  - Geospatial Intelligence
+  - Field Operations
+  - Utility Sector
+  - AI Solutions
+  - Data Science
+  - Python
+  - PostGIS
+
+# Social/SEO
+social:
+  name: Cristian Rodriguez
+  links:
+    - https://www.linkedin.com/in/cristian-rodriguez-546a4150
+    - https://github.com/script32
+    - https://www.kaggle.com/crprpr
+
+# Configuraciones adicionales
+show_downloads: false
+markdown: kramdown
+highlighter: rouge
