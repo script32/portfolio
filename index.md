@@ -325,7 +325,7 @@ Modelo <strong>LightGBM</strong> para predecir rendimiento energético según ti
 <div class="project-card">
 <h3>Reconocimiento Facial - API + Web Platform</h3>
 
-<a href="https://github.com/script32/face" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
+<a href="https://github.com/script32/face" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Sistema completo de reconocimiento facial con API REST y plataforma web. Utiliza <strong>PostgreSQL con CUDA</strong> para almacenar embeddings faciales con alto rendimiento.
@@ -344,7 +344,7 @@ Sistema completo de reconocimiento facial con API REST y plataforma web. Utiliza
 <div class="project-card">
 <h3>CS224n: NLP con Deep Learning - Stanford</h3>
 
-<a href="https://github.com/script32/CS224n-NLP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
+<a href="https://github.com/script32/CS224n-NLP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Implementación completa del curso de Stanford. Incluye sistema de <strong>Traducción Automática Neuronal</strong> (NMT) español-inglés con encoder LSTM bidireccional y decoder con atención multiplicativa.
@@ -381,7 +381,7 @@ Modelos de ML para identificar toxicidad en conversaciones online utilizando <st
 <div class="project-card">
 <h3>Biblioteca de Modelos ML - Python & R</h3>
 
-<a href="https://github.com/script32/Modelos-ML" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-333?logo=github&style=for-the-badge" alt="Ver en GitHub"/></a>
+<a href="https://github.com/script32/Modelos-ML" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
 
 <div style="text-align: justify">
 Repositorio completo con ejemplos de todos los tipos de modelos de Machine Learning, implementados en <strong>Python</strong> y <strong>R</strong> con datasets de ejemplo.
