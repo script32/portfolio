@@ -434,54 +434,46 @@ Demostración práctica de computación visual con implementación en menos de 2
 
 <div class="skill-category">
 <h4>Lenguajes de Programación</h4>
-
-| Tecnología | Nivel |
-|------------|-------|
-| Python | Experto |
-| C# / .NET | Experto |
-| JavaScript/TypeScript | Experto |
-| R | Avanzado |
-| SQL | Experto |
-
+<ul class="skill-list">
+  <li><strong>Python</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>C# / .NET</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>JavaScript/TypeScript</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>R</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>SQL</strong> <span class="level-expert">Experto</span></li>
+</ul>
 </div>
 
 <div class="skill-category">
 <h4>Bases de Datos & GIS</h4>
-
-| Tecnología | Nivel |
-|------------|-------|
-| PostgreSQL / PostGIS | Experto |
-| SQL Server | Experto |
-| MySQL | Avanzado |
-| MongoDB | Avanzado |
-| SAP HANA | Avanzado |
-
+<ul class="skill-list">
+  <li><strong>PostgreSQL / PostGIS</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>SQL Server</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>MySQL</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>MongoDB</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>SAP HANA</strong> <span class="level-advanced">Avanzado</span></li>
+</ul>
 </div>
 
 <div class="skill-category">
 <h4>Cloud & DevOps</h4>
-
-| Tecnología | Nivel |
-|------------|-------|
-| Azure | Experto |
-| AWS | Avanzado |
-| Google Cloud | Avanzado |
-| IBM Cloud / Watson | Experto |
-| Docker | Avanzado |
-
+<ul class="skill-list">
+  <li><strong>Azure</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>AWS</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>Google Cloud</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>IBM Cloud / Watson</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>Docker</strong> <span class="level-advanced">Avanzado</span></li>
+</ul>
 </div>
 
 <div class="skill-category">
 <h4>Frameworks & Librerías</h4>
-
-| Tecnología | Nivel |
-|------------|-------|
-| React / SPFx | Experto |
-| Angular | Avanzado |
-| Node.js | Experto |
-| .NET Core | Experto |
-| TensorFlow/PyTorch | Avanzado |
-
+<ul class="skill-list">
+  <li><strong>React / SPFx</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>Angular</strong> <span class="level-advanced">Avanzado</span></li>
+  <li><strong>Node.js</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>.NET Core</strong> <span class="level-expert">Experto</span></li>
+  <li><strong>TensorFlow/PyTorch</strong> <span class="level-advanced">Avanzado</span></li>
+</ul>
 </div>
 
 </div>
