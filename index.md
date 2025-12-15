@@ -105,34 +105,7 @@ Los sistemas actuales en empresas de servicios públicos operan en <strong>silos
 Mi enfoque va más allá de escribir scripts; diseño <strong>sistemas completos</strong> que integran múltiples capas de tecnología. La siguiente arquitectura muestra cómo los componentes interactúan en mis proyectos para el sector Utility:
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    CAPA DE PRESENTACIÓN                         │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │
-│  │  React   │  │  Mobile  │  │Dashboard │  │  Maps    │       │
-│  │   SPFx   │  │   App    │  │   BI     │  │ Leaflet  │       │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘       │
-└───────┼─────────────┼─────────────┼─────────────┼──────────────┘
-        │             │             │             │
-┌───────┴─────────────┴─────────────┴─────────────┴──────────────┐
-│                      CAPA DE SERVICIOS                          │
-│  ┌──────────────────────────────────────────────────────────┐  │
-│  │              APIs REST / GraphQL / Node-RED              │  │
-│  │         ┌─────────────────────────────────┐              │  │
-│  │         │     SMART AGENT UTILITY         │              │  │
-│  │         │   (Decisiones Autónomas IA)     │              │  │
-│  │         └─────────────────────────────────┘              │  │
-│  └──────────────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────────┘
-        │             │             │             │
-┌───────┴─────────────┴─────────────┴─────────────┴──────────────┐
-│                       CAPA DE DATOS                             │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │
-│  │ PostGIS  │  │   SAP    │  │  IBM     │  │  Azure   │       │
-│  │PostgreSQL│  │  HANA    │  │ Watson   │  │   SQL    │       │
-│  └──────────┘  └──────────┘  └──────────┘  └──────────┘       │
-└─────────────────────────────────────────────────────────────────┘
-```
+<center><img src="images/arquitectura.jpg" alt="Arquitectura de Sistemas" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
 
 ---
 
