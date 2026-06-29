@@ -270,3 +270,19 @@ footer {
     color:#444;
   }
 }
+
+/* ===== PORTFOLIO OVERRIDES - neutralizar sidebar fijo del tema ===== */
+body { padding: 0 !important; }
+header { display: none !important; }
+footer { display: none !important; }
+section {
+  width: 100% !important;
+  float: none !important;
+  padding-bottom: 0 !important;
+  border: none !important;
+}
+.wrapper {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+}
