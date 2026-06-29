@@ -208,109 +208,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ---
 
-## Proyecto Estrella: Smart Agent Utility
-
-<div class="project-card featured">
-
-<h3>El Desafío de las Operaciones de Campo</h3>
-
-<div style="text-align: justify">
-Los sistemas actuales en empresas de servicios públicos operan en <strong>silos de datos</strong>. Los trabajadores de campo carecen de inteligencia en tiempo real, dependiendo de información desactualizada que llega con horas o días de retraso. Esto resulta en tiempos de respuesta lentos, rutas subóptimas y decisiones basadas en datos incompletos.
-</div>
-
-<h3>La Solución: Agentes Autónomos Inteligentes</h3>
-
-<div style="text-align: justify">
-<strong>Smart Agent Utility</strong> es un sistema de agentes autónomos que utiliza la <em>ubicación del trabajador en tiempo real</em> para enviar información contextual proactiva. El agente analiza múltiples fuentes de datos y toma decisiones para empoderar a los equipos de campo.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">PostGIS</span>
-  <span class="tech-badge">Machine Learning</span>
-  <span class="tech-badge">Real-time APIs</span>
-  <span class="tech-badge">Cloud Native</span>
-</div>
-
-<a href="https://github.com/script32/smart_agent_utility" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
-
-</div>
-
----
-
-<div class="industry-section">
-  <span class="icon">⚡</span>
-  <h2>Utility &amp; Energía</h2>
-  <span class="country-badge">🇨🇱 Chile</span>
-</div>
-
-<div class="projects-grid">
-
-<div class="project-card">
-<h3>Análisis de Vegetación con IA &mdash; ROI: $9M USD</h3>
-<div style="text-align: justify">
-Inspección mediante <strong>imágenes satelitales</strong> de 11.500 kilómetros de líneas eléctricas. Detecta vegetación de riesgo y programa trabajos preventivos, generando <strong>$9 millones USD</strong> en prevención de fallas.
-</div>
-<div class="tech-stack">
-  <span class="tech-badge">Imágenes Satelitales</span>
-  <span class="tech-badge">Computer Vision</span>
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">GIS</span>
-</div>
-<center><img src="{{ '/images/Arbol.jpeg' | relative_url }}" alt="Análisis de Vegetación" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Modelo Predictivo XGBoost &mdash; 12M+ Predicciones</h3>
-<div style="text-align: justify">
-Modelo <strong>XGBoost</strong> desplegado en IBM Watson que predice el tiempo de reposición del servicio eléctrico en los primeros 15 minutos de una llamada de cliente. Integra datos de clima, ubicación geográfica y tiempos históricos.
-</div>
-<div class="stats-row" style="margin: 16px 0;">
-  <div class="stat-card"><div class="number">12M+</div><div class="label">Predicciones</div></div>
-  <div class="stat-card"><div class="number">85%</div><div class="label">Precisión</div></div>
-  <div class="stat-card"><div class="number">15 min</div><div class="label">Tiempo respuesta</div></div>
-</div>
-<div class="tech-stack">
-  <span class="tech-badge">XGBoost</span>
-  <span class="tech-badge">IBM Watson</span>
-  <span class="tech-badge">Node-RED</span>
-  <span class="tech-badge">Weather API</span>
-</div>
-<center><img src="{{ '/images/xgboost.jpg' | relative_url }}" alt="XGBoost Model" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Análisis de Activos con Drones &mdash; 300K+ Imágenes</h3>
-<div style="text-align: justify">
-Implementación de <strong>Optelos</strong> con cerebros de IA entrenados para inspección de activos eléctricos. Integra tecnología Neurala con Microsoft Azure, gestionando más de <strong>300.000 imágenes</strong> de inspecciones aéreas.
-</div>
-<div class="tech-stack">
-  <span class="tech-badge">Drones</span>
-  <span class="tech-badge">Neurala AI</span>
-  <span class="tech-badge">Azure</span>
-  <span class="tech-badge">Computer Vision</span>
-</div>
-<center><img src="{{ '/images/Optelos.jpeg' | relative_url }}" alt="Optelos Platform" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Gestión de Fuerza de Trabajo &mdash; 300+ Brigadas</h3>
-<div style="text-align: justify">
-Implementación de <strong>Synchroteam</strong> para administrar la gestión de fuerza de trabajo en terreno. Trazabilidad completa de activos, recursos y materiales para más de 300 brigadas operativas en tiempo real.
-</div>
-<div class="tech-stack">
-  <span class="tech-badge">Geolocalización</span>
-  <span class="tech-badge">Mobile</span>
-  <span class="tech-badge">Real-time Sync</span>
-  <span class="tech-badge">Analytics</span>
-</div>
-<center><img src="{{ '/images/sync.jpg' | relative_url }}" alt="Synchroteam" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
-</div>
-
-</div>
-
----
-
 <div class="industry-section">
   <span class="icon">🌾</span>
   <h2>Alimentos</h2>
@@ -511,6 +408,109 @@ Programa de <strong>capacitación técnica</strong> para equipos de desarrollo e
   <span class="tech-badge">Agentes IA</span>
   <span class="tech-badge">Python</span>
 </div>
+</div>
+
+</div>
+
+---
+
+## Proyecto Estrella: Smart Agent Utility
+
+<div class="project-card featured">
+
+<h3>El Desafío de las Operaciones de Campo</h3>
+
+<div style="text-align: justify">
+Los sistemas actuales en empresas de servicios públicos operan en <strong>silos de datos</strong>. Los trabajadores de campo carecen de inteligencia en tiempo real, dependiendo de información desactualizada que llega con horas o días de retraso. Esto resulta en tiempos de respuesta lentos, rutas subóptimas y decisiones basadas en datos incompletos.
+</div>
+
+<h3>La Solución: Agentes Autónomos Inteligentes</h3>
+
+<div style="text-align: justify">
+<strong>Smart Agent Utility</strong> es un sistema de agentes autónomos que utiliza la <em>ubicación del trabajador en tiempo real</em> para enviar información contextual proactiva. El agente analiza múltiples fuentes de datos y toma decisiones para empoderar a los equipos de campo.
+</div>
+
+<div class="tech-stack">
+  <span class="tech-badge">Python</span>
+  <span class="tech-badge">PostGIS</span>
+  <span class="tech-badge">Machine Learning</span>
+  <span class="tech-badge">Real-time APIs</span>
+  <span class="tech-badge">Cloud Native</span>
+</div>
+
+<a href="https://github.com/script32/smart_agent_utility" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
+
+</div>
+
+---
+
+<div class="industry-section">
+  <span class="icon">⚡</span>
+  <h2>Utility &amp; Energía</h2>
+  <span class="country-badge">🇨🇱 Chile</span>
+</div>
+
+<div class="projects-grid">
+
+<div class="project-card">
+<h3>Análisis de Vegetación con IA &mdash; ROI: $9M USD</h3>
+<div style="text-align: justify">
+Inspección mediante <strong>imágenes satelitales</strong> de 11.500 kilómetros de líneas eléctricas. Detecta vegetación de riesgo y programa trabajos preventivos, generando <strong>$9 millones USD</strong> en prevención de fallas.
+</div>
+<div class="tech-stack">
+  <span class="tech-badge">Imágenes Satelitales</span>
+  <span class="tech-badge">Computer Vision</span>
+  <span class="tech-badge">Python</span>
+  <span class="tech-badge">GIS</span>
+</div>
+<center><img src="{{ '/images/Arbol.jpeg' | relative_url }}" alt="Análisis de Vegetación" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
+</div>
+
+<div class="project-card">
+<h3>Modelo Predictivo XGBoost &mdash; 12M+ Predicciones</h3>
+<div style="text-align: justify">
+Modelo <strong>XGBoost</strong> desplegado en IBM Watson que predice el tiempo de reposición del servicio eléctrico en los primeros 15 minutos de una llamada de cliente. Integra datos de clima, ubicación geográfica y tiempos históricos.
+</div>
+<div class="stats-row" style="margin: 16px 0;">
+  <div class="stat-card"><div class="number">12M+</div><div class="label">Predicciones</div></div>
+  <div class="stat-card"><div class="number">85%</div><div class="label">Precisión</div></div>
+  <div class="stat-card"><div class="number">15 min</div><div class="label">Tiempo respuesta</div></div>
+</div>
+<div class="tech-stack">
+  <span class="tech-badge">XGBoost</span>
+  <span class="tech-badge">IBM Watson</span>
+  <span class="tech-badge">Node-RED</span>
+  <span class="tech-badge">Weather API</span>
+</div>
+<center><img src="{{ '/images/xgboost.jpg' | relative_url }}" alt="XGBoost Model" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
+</div>
+
+<div class="project-card">
+<h3>Análisis de Activos con Drones &mdash; 300K+ Imágenes</h3>
+<div style="text-align: justify">
+Implementación de <strong>Optelos</strong> con cerebros de IA entrenados para inspección de activos eléctricos. Integra tecnología Neurala con Microsoft Azure, gestionando más de <strong>300.000 imágenes</strong> de inspecciones aéreas.
+</div>
+<div class="tech-stack">
+  <span class="tech-badge">Drones</span>
+  <span class="tech-badge">Neurala AI</span>
+  <span class="tech-badge">Azure</span>
+  <span class="tech-badge">Computer Vision</span>
+</div>
+<center><img src="{{ '/images/Optelos.jpeg' | relative_url }}" alt="Optelos Platform" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
+</div>
+
+<div class="project-card">
+<h3>Gestión de Fuerza de Trabajo &mdash; 300+ Brigadas</h3>
+<div style="text-align: justify">
+Implementación de <strong>Synchroteam</strong> para administrar la gestión de fuerza de trabajo en terreno. Trazabilidad completa de activos, recursos y materiales para más de 300 brigadas operativas en tiempo real.
+</div>
+<div class="tech-stack">
+  <span class="tech-badge">Geolocalización</span>
+  <span class="tech-badge">Mobile</span>
+  <span class="tech-badge">Real-time Sync</span>
+  <span class="tech-badge">Analytics</span>
+</div>
+<center><img src="{{ '/images/sync.jpg' | relative_url }}" alt="Synchroteam" style="max-width:100%;border-radius:8px;margin-top:14px;"/></center>
 </div>
 
 </div>
