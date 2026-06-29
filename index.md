@@ -1,496 +1,116 @@
 ---
 layout: default
-title: Cristian Rodriguez - Inteligencia Operativa para la Red Moderna
+title: Cristian Rodriguez - AI Strategy Consultant
+description: "Consultor de TI con 20+ años implementando IA, soluciones geoespaciales y transformación digital en 5 países y 6+ industrias. Líder de Negocio TI con 600+ proyectos ejecutados."
 ---
 
-<!-- HERO GEOESPACIAL INTERACTIVO -->
-<div class="geo-hero">
-  <div id="map"></div>
-  <div class="hero-overlay">
-    <h1>Inteligencia Operativa para la Red Moderna</h1>
-    <p>Transformando datos geoespaciales en acción operativa para el Sector Utility</p>
+<!-- HERO LANDING -->
+<div class="landing-hero">
+  <img src="{{ '/images/image.jpg' | relative_url }}" alt="Cristian Rodriguez" class="avatar">
+  <h1>Cristian Rodriguez</h1>
+  <p class="tagline">AI Strategy Consultant &middot; Arquitecto de Soluciones Geoespaciales</p>
+  <div class="landing-stats">
+    <div class="landing-stat">
+      <div class="number">20+</div>
+      <div class="label">Años de experiencia</div>
+    </div>
+    <div class="landing-stat">
+      <div class="number">600+</div>
+      <div class="label">Proyectos ejecutados</div>
+    </div>
+    <div class="landing-stat">
+      <div class="number">5</div>
+      <div class="label">Países</div>
+    </div>
+    <div class="landing-stat">
+      <div class="number">6+</div>
+      <div class="label">Industrias</div>
+    </div>
   </div>
 </div>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var map = L.map('map', {
-    zoomControl: false,
-    attributionControl: false,
-    dragging: false,
-    scrollWheelZoom: false
-  }).setView([-33.45, -70.65], 10);
-  
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    maxZoom: 19
-  }).addTo(map);
-  
-  var networkPoints = [
-    [-33.42, -70.60], [-33.44, -70.62], [-33.46, -70.58],
-    [-33.48, -70.64], [-33.45, -70.70], [-33.43, -70.68],
-    [-33.47, -70.66], [-33.50, -70.62], [-33.41, -70.65]
-  ];
-  
-  networkPoints.forEach(function(point, i) {
-    L.circleMarker(point, {
-      radius: 6,
-      fillColor: i % 3 === 0 ? '#00ff88' : '#00aaff',
-      color: '#fff',
-      weight: 1,
-      opacity: 0.8,
-      fillOpacity: 0.8
-    }).addTo(map);
-  });
-  
-  var polyline = L.polyline(networkPoints, {
-    color: '#00aaff',
-    weight: 2,
-    opacity: 0.6,
-    dashArray: '5, 10'
-  }).addTo(map);
-});
-</script>
-
-<div style="text-align: center; margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/cristian-rodriguez-546a4150" class="cta-button" target="_blank">
-    Colaborar en LinkedIn
+<!-- BIFURCACIÓN DE ROLES -->
+<div class="role-cards">
+  <a href="{{ '/consulting' | relative_url }}" class="role-card consulting">
+    <div class="role-icon">🌐</div>
+    <h2>Consultor de TI</h2>
+    <p class="role-meta">2007 &ndash; presente &middot; Chile · España · México · Colombia · Brasil</p>
+    <p>Implementaciones de IA, soluciones geoespaciales y transformación digital para clientes en Utility, Hoteles, Gobierno, Automotriz, Alimentos y más. Proyectos con ROI de hasta $9M USD.</p>
+    <span class="role-cta">Ver experiencia de consultoría &rarr;</span>
   </a>
-  <a href="https://github.com/script32" class="cta-button secondary" target="_blank">
-    Ver Repositorios
+  <a href="{{ '/business-leader' | relative_url }}" class="role-card leader">
+    <div class="role-icon">📊</div>
+    <h2>Líder de Negocio TI</h2>
+    <p class="role-meta">2017 &ndash; presente &middot; Grupo Saesa &middot; Sector Eléctrico</p>
+    <p>Gestión de equipos, presupuesto y roadmap tecnológico. Más de 600 proyectos de $10K a $7M USD integrando tecnología en operaciones eléctricas de generación, transmisión y distribución.</p>
+    <span class="role-cta">Ver liderazgo TI &rarr;</span>
   </a>
 </div>
 
----
+<blockquote class="mission-statement">
+  "En un mundo donde la infraestructura crítica genera terabytes de datos espaciales, mi misión es transformar esa información en acción operativa."
+</blockquote>
 
-## Proyecto Estrella: Smart Agent Utility
+<!-- ATS HIDDEN: visible para bots de reclutamiento, invisible para usuarios -->
+<div class="ats-resume" aria-hidden="false">
+CRISTIAN RODRIGUEZ
+AI Strategy Consultant | IT Business Leader | Geospatial Solutions Architect
+Osorno, Los Lagos, Chile
+LinkedIn: linkedin.com/in/cristian-rodriguez-546a4150
+GitHub: github.com/script32 | Kaggle: kaggle.com/crprpr
 
-<div class="project-card featured">
+EXPERIENCIA LABORAL
 
-<h3>El Desafío de las Operaciones de Campo</h3>
+Grupo Saesa — Leader of IT Business
+Febrero 2017 – Presente (9+ años) | Osorno, Chile
+Responsabilidades: Liderazgo de transformación digital con IA, Data Science y tecnologías geoespaciales. Gestión de más de 600 proyectos con presupuestos entre USD 10.000 y USD 7.000.000. Gestión de equipos TI, presupuesto anual, roadmap tecnológico y relación con el negocio. Construcción de casos de negocio para inversiones tecnológicas. Proyectos emblematicos: SCADA Distribuidora, Sistema Técnico Geográfico (STG) para distribuidora y transmisora eléctrica, Movilidad y Digitalización para más de 1.000 cuadrillas de terreno. Implementación de modelos predictivos XGBoost en IBM Watson (más de 12 millones de predicciones generadas, 85% de precisión). Análisis de vegetación satelital en 11.500 km de líneas eléctricas (ROI $9 millones USD). Inspección de activos con drones Optelos/Neurala/Azure (más de 300.000 imágenes procesadas). Gestión de fuerza de trabajo con Synchroteam para más de 300 brigadas.
 
-<p style="text-align: justify">
-Los sistemas actuales en empresas de servicios públicos operan en <strong>silos de datos</strong>. Los trabajadores de campo carecen de inteligencia en tiempo real, dependiendo de información desactualizada que llega con horas o días de retraso. Esto resulta en:
-</p>
+Grupo Saesa — Service Quality Engineer
+Enero 2011 – Enero 2017 (6 años) | Osorno, Chile
+Integración de tecnologías geográficas y móviles en operaciones de campo. Implementación de sistemas GIS para distribución eléctrica. Gestión de calidad de servicio eléctrico.
 
-<ul>
-  <li>Tiempos de respuesta lentos ante emergencias</li>
-  <li>Rutas subóptimas que desperdician recursos</li>
-  <li>Falta de contexto sobre el estado real de los activos</li>
-  <li>Decisiones basadas en datos incompletos</li>
-</ul>
+CLAS — Head of IT Department
+Enero 2007 – Diciembre 2010 (4 años) | Chile
+Administración de ERP, gestión de hardware y desarrollo de aplicaciones móviles. Implementación de sistemas de guía vehicular para Parque Arauco y Clínica las Condes.
 
-<h3>La Solución: Agentes Autónomos Inteligentes</h3>
+CONSULTORÍA INTERNACIONAL DE TI — 2007 – Presente
+Países: Chile, España, México, Colombia, Brasil
+Industrias: Utility eléctrico (distribución, transmisión, generación), Hoteles y Turismo, Automotriz, Gobierno, Alimentos, Salud
+Actividades: Implementaciones técnicas y arquitectura de soluciones para clientes empresariales. Implementación de Inteligencia Artificial y Machine Learning en procesos de negocio. Desarrollo de soluciones geoespaciales y análisis de datos a escala. Consultoría en transformación digital. Implementación de sistemas SAP PM, SAP PS, SSIS, SharePoint, ERP.
 
-<p style="text-align: justify">
-<strong>Smart Agent Utility</strong> es un sistema de agentes autónomos que utiliza la <em>ubicación del trabajador en tiempo real</em> para enviar información contextual proactiva. El agente analiza múltiples fuentes de datos y toma decisiones para empoderar a los equipos de campo.
-</p>
+EDUCACIÓN
 
-<div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">PostGIS</span>
-  <span class="tech-badge">Machine Learning</span>
-  <span class="tech-badge">Real-time APIs</span>
-  <span class="tech-badge">Cloud Native</span>
+MBA Finance — Universitat de Barcelona
+2021 – 2022 | GPA: 8.9 sobre 10
+
+Ingeniería en Computación — Universidad Gabriela Mistral
+2013 – 2014
+
+Técnico en Tecnologías de Información — Universidad de Los Lagos
+2001 – 2004
+
+CERTIFICACIONES Y CURSOS
+
+Machine Learning — MIT Professional Education (Diciembre 2019)
+Computer Vision with Watson and OpenCV — Coursera / IBM (Julio 2019)
+Digital Transformation for Leaders — LinkedIn Learning (Septiembre 2020)
+Data Science Foundations Level 1 — IBM (Junio 2018)
+IBM Bluemix Essentials — IBM
+Watson Conversation Service — IBM
+Node-RED de básico a intermedio — IBM
+CS224n: Natural Language Processing with Deep Learning — Stanford University (Auditoría)
+
+HABILIDADES TÉCNICAS
+
+Lenguajes de Programación: Python, C#, .NET, JavaScript, TypeScript, R, SQL, ABAP
+Bases de Datos: PostgreSQL, PostGIS, SQL Server, MySQL, MongoDB, SAP HANA
+Plataformas Cloud: Microsoft Azure, Amazon AWS, Google Cloud Platform, IBM Cloud, IBM Watson
+Inteligencia Artificial y Machine Learning: TensorFlow, PyTorch, XGBoost, LightGBM, BERT, Transformers, Scikit-learn, OpenCV, NLTK, Keras, Deep Learning, Computer Vision, NLP, MLOps, Generative AI, LLM
+GIS y Geoespacial: PostGIS, Leaflet.js, QGIS, Sistemas de Información Geográfica, Análisis Satelital, Drones, Optelos, Neurala AI
+Frameworks Web: React, SPFx SharePoint, Angular, Node.js, .NET Core, FastAPI, Jekyll
+DevOps: Docker, GitHub Actions, CI/CD, Azure DevOps, IBM DevOps
+Sistemas Empresariales: SAP PM, SAP PS, SAP HANA, SSIS, Node-RED, Synchroteam, SharePoint
+Metodologías: Agile, Scrum, Gestión de Proyectos TI, Casos de Negocio, Transformación Digital, DevSecOps
+
+ROLES PROFESIONALES: AI Strategy Consultant, IT Consultant, IT Business Leader, Data Scientist, Solutions Architect, Geospatial Engineer, MLOps Engineer, Product Manager AI, Digital Transformation Lead, FullStack Senior Developer, Python Developer, Machine Learning Engineer, Business Intelligence Analyst, ERP Consultant, SAP Consultant, Field Operations Specialist
 </div>
-
-<a href="https://github.com/script32/smart_agent_utility" target="_blank"><img src="https://img.shields.io/badge/GitHub-Smart_Agent_Utility-00cc66?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
-
-</div>
-
----
-
-## Arquitectura de Sistemas
-
-<div style="text-align: justify">
-Mi enfoque va más allá de escribir scripts; diseño <strong>sistemas completos</strong> que integran múltiples capas de tecnología. La siguiente arquitectura muestra cómo los componentes interactúan en mis proyectos para el sector Utility:
-</div>
-
-<center><img src="images/arquitectura.jpg" alt="Arquitectura de Sistemas" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-
----
-
-## Proyectos de Alto Impacto - Sector Utility
-
-<div class="project-card">
-<h3>Análisis de Vegetación con IA - ROI: $9M USD</h3>
-
-<div style="text-align: justify">
-Proyecto de inspección mediante <strong>imágenes satelitales</strong> de 11,500 kilómetros de líneas eléctricas. El sistema detecta vegetación de riesgo y programa trabajos preventivos en terreno, generando beneficios de <strong>9 millones USD</strong> en prevención de fallas.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Imágenes Satelitales</span>
-  <span class="tech-badge">Computer Vision</span>
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">GIS</span>
-</div>
-
-<center><img src="images/Arbol.jpeg" alt="Análisis de Vegetación" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Modelo Predictivo de Tiempo de Reposición Eléctrica</h3>
-
-<div style="text-align: justify">
-Modelo <strong>XGBoost</strong> desplegado en IBM Watson que predice el tiempo de reposición del servicio eléctrico en los primeros 15 minutos de una llamada de cliente. Integra datos de clima, ubicación geográfica y tiempos históricos de atención.
-</div>
-
-<div class="github-stats">
-  <div class="stat-card">
-    <div class="number">12M+</div>
-    <div class="label">Predicciones Generadas</div>
-  </div>
-  <div class="stat-card">
-    <div class="number">85%</div>
-    <div class="label">Precisión Positiva</div>
-  </div>
-  <div class="stat-card">
-    <div class="number">15 min</div>
-    <div class="label">Tiempo de Respuesta</div>
-  </div>
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">XGBoost</span>
-  <span class="tech-badge">IBM Watson</span>
-  <span class="tech-badge">Node-RED</span>
-  <span class="tech-badge">Weather API</span>
-</div>
-
-<center><img src="images/xgboost.jpg" alt="XGBoost Model" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Análisis de Activos con Drones - 300K+ Imágenes</h3>
-
-<div style="text-align: justify">
-Implementación de la plataforma <strong>Optelos</strong> con cerebros de IA entrenados para inspección de activos. El sistema utiliza tecnología Neurala y se integra con servicios de Microsoft Azure, gestionando más de <strong>300,000 imágenes</strong> de inspecciones.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Drones</span>
-  <span class="tech-badge">Neurala AI</span>
-  <span class="tech-badge">Azure</span>
-  <span class="tech-badge">Computer Vision</span>
-</div>
-
-<center><img src="images/Optelos.jpeg" alt="Optelos Platform" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Gestión de Fuerza de Trabajo - 300+ Brigadas</h3>
-
-<div style="text-align: justify">
-Implementación de <strong>Synchroteam</strong> para administrar la gestión de fuerza de trabajo en terreno. El sistema permite la trazabilidad completa de activos, recursos y materiales para más de 300 brigadas operativas.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Geolocalización</span>
-  <span class="tech-badge">Mobile</span>
-  <span class="tech-badge">Real-time Sync</span>
-  <span class="tech-badge">Analytics</span>
-</div>
-
-<center><img src="images/sync.jpg" alt="Synchroteam" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
----
-
-## Integraciones Empresariales
-
-<div class="project-card">
-<h3>Librería SSIS SAP CO - ETL Avanzado</h3>
-
-<div style="text-align: justify">
-Librería desarrollada en <strong>C#</strong> para simplificar la interacción con tablas SAP desde SSIS. Permite explorar tablas, generar consultas optimizadas y realizar operaciones JOIN complejas sin código extenso.
-</div>
-
-**Funcionalidades:**
-- Exploración intuitiva de tablas SAP
-- Generación automática de consultas SQL
-- Soporte para JOINs y operaciones relacionales
-- Integración fluida con flujos ETL
-
-<div class="tech-stack">
-  <span class="tech-badge">C#</span>
-  <span class="tech-badge">SSIS</span>
-  <span class="tech-badge">SAP RFC</span>
-  <span class="tech-badge">SQL Server</span>
-</div>
-
-<center><img src="images/SSIS sources-final.png" alt="SSIS SAP Integration" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>SharePoint - Gestión del Conocimiento con React SPFx</h3>
-
-<div style="text-align: justify">
-Plataforma de gestión del conocimiento para empresa multinacional utilizando <strong>React</strong> y <strong>SPFx</strong>. Centraliza el acceso a información con seguridad basada en roles y búsqueda avanzada mediante Graph API.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">React</span>
-  <span class="tech-badge">SPFx</span>
-  <span class="tech-badge">Graph API</span>
-  <span class="tech-badge">Role-based Security</span>
-</div>
-
-<center><img src="images/sharepoint.png" alt="SharePoint SPFx" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Proyectos SAP PM/PS</h3>
-
-<div style="text-align: justify">
-Liderazgo en implementaciones de módulos <strong>SAP PM</strong> (Plant Maintenance) y <strong>SAP PS</strong> (Project Systems) con integraciones avanzadas.
-</div>
-
-**Implementaciones:**
-- Liquidación automática de activos en proyectos
-- Integración de valoración de presupuestos
-- Automatización de Planes de Mantenimiento
-- Integración C4C y OMS
-
-<div class="tech-stack">
-  <span class="tech-badge">SAP PM</span>
-  <span class="tech-badge">SAP PS</span>
-  <span class="tech-badge">ABAP</span>
-  <span class="tech-badge">Integration</span>
-</div>
-
-<center><img src="images/sap.jpg" alt="SAP Projects" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
----
-
-## Data Science & Machine Learning
-
-<div class="project-card">
-<h3>COVID-19 Research Challenge - Kaggle</h3>
-
-<a href="https://www.kaggle.com/crprpr/vaccine-data-filter" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge" alt="Ver Notebook"/></a>
-
-<div style="text-align: justify">
-Notebook para búsqueda de metadatos en publicaciones médicas utilizando <strong>NLP</strong> para encontrar relaciones en condiciones afectadas por el virus.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">NLTK</span>
-  <span class="tech-badge">NLP</span>
-</div>
-</div>
-
-<div class="project-card">
-<h3>Predicción de Demanda Energética</h3>
-
-<a href="https://colab.research.google.com/drive/1gVBN1qg3ajEjxJPkd_YwXb9yLDBMQAR0" target="_blank"><img src="https://img.shields.io/badge/Colab-Ejecutar_Notebook-F9AB00?logo=googlecolab&style=for-the-badge" alt="Ejecutar en Colab"/></a>
-
-<div style="text-align: justify">
-Modelo <strong>LightGBM</strong> para predecir rendimiento energético según tipo de instalación y datos climáticos.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">LightGBM</span>
-  <span class="tech-badge">Weather Data</span>
-  <span class="tech-badge">Regression</span>
-</div>
-</div>
-
-<div class="project-card">
-<h3>Reconocimiento Facial - API + Web Platform</h3>
-
-<a href="https://github.com/script32/face" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
-
-<div style="text-align: justify">
-Sistema completo de reconocimiento facial con API REST y plataforma web. Utiliza <strong>PostgreSQL con CUDA</strong> para almacenar embeddings faciales con alto rendimiento.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">PostgreSQL</span>
-  <span class="tech-badge">CUDA</span>
-  <span class="tech-badge">REST API</span>
-</div>
-
-<center><img src="images/face.png" alt="Face Recognition" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>CS224n: NLP con Deep Learning - Stanford</h3>
-
-<a href="https://github.com/script32/CS224n-NLP" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
-
-<div style="text-align: justify">
-Implementación completa del curso de Stanford. Incluye sistema de <strong>Traducción Automática Neuronal</strong> (NMT) español-inglés con encoder LSTM bidireccional y decoder con atención multiplicativa.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Deep Learning</span>
-  <span class="tech-badge">NLP</span>
-  <span class="tech-badge">LSTM</span>
-  <span class="tech-badge">Attention</span>
-</div>
-
-<center><img src="images/nlp.png" alt="NLP Stanford" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Análisis de Sentimiento - Detección de Toxicidad</h3>
-
-<a href="https://www.kaggle.com/crprpr/clasificaci-n-de-texto-tensorflow-transformers" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Ver_Notebook-20BEFF?logo=kaggle&style=for-the-badge" alt="Ver en Kaggle"/></a>
-
-<div style="text-align: justify">
-Modelos de ML para identificar toxicidad en conversaciones online utilizando <strong>BERT</strong> y Transformers.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">BERT</span>
-  <span class="tech-badge">TensorFlow</span>
-  <span class="tech-badge">Transformers</span>
-</div>
-
-<center><img src="images/BERT-classification.png" alt="BERT Classification" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Biblioteca de Modelos ML - Python & R</h3>
-
-<a href="https://github.com/script32/Modelos-ML" target="_blank"><img src="https://img.shields.io/badge/GitHub-Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" alt="Ver en GitHub"/></a>
-
-<div style="text-align: justify">
-Repositorio completo con ejemplos de todos los tipos de modelos de Machine Learning, implementados en <strong>Python</strong> y <strong>R</strong> con datasets de ejemplo.
-</div>
-
-<div class="tech-stack">
-  <span class="tech-badge">Python</span>
-  <span class="tech-badge">R</span>
-  <span class="tech-badge">Scikit-learn</span>
-  <span class="tech-badge">XGBoost</span>
-</div>
-
-<center><img src="images/ML.jpg" alt="ML Library" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
----
-
-## Charlas y Eventos
-
-<div class="project-card">
-<h3>Workshop Invierno 2020 - Universidad Austral de Chile</h3>
-
-<a href="https://youtu.be/XnX3HJDSIgU?t=8905" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ver_Presentaci%C3%B3n-FF0000?logo=youtube&style=for-the-badge" alt="Ver en YouTube"/></a>
-
-<div style="text-align: justify">
-Presentación sobre el viaje de transformación digital: <em>"Cómo las empresas del Sector Utility deben adoptar la Inteligencia Artificial"</em>
-</div>
-
-<center><img src="images/eventoinv.jpg" alt="Workshop UACH" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
-<div class="project-card">
-<h3>Workshop Primavera 2020 - Computación Visual</h3>
-
-<a href="https://youtu.be/4eFyjwE3bCM?t=5576" target="_blank"><img src="https://img.shields.io/badge/YouTube-Ver_Presentaci%C3%B3n-FF0000?logo=youtube&style=for-the-badge" alt="Ver en YouTube"/></a>
-<a href="https://colab.research.google.com/drive/1l4UfnvcbBgybtc16pJcIGuh41ETbXsF3" target="_blank"><img src="https://img.shields.io/badge/Colab-Ejecutar_Demo-F9AB00?logo=googlecolab&style=for-the-badge" alt="Ejecutar en Colab"/></a>
-
-<div style="text-align: justify">
-Demostración práctica de computación visual con implementación en menos de 20 líneas de código.
-</div>
-
-<center><img src="images/vision.png" alt="Computer Vision Workshop" style="max-width: 100%; border-radius: 8px; margin-top: 15px;"/></center>
-</div>
-
----
-
-## Stack Tecnológico
-
-<div class="skills-grid">
-
-<div class="skill-category">
-<h4>Lenguajes de Programación</h4>
-<ul class="skill-list">
-  <li><strong>Python</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>C# / .NET</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>JavaScript/TypeScript</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>R</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>SQL</strong> <span class="level-expert">Experto</span></li>
-</ul>
-</div>
-
-<div class="skill-category">
-<h4>Bases de Datos & GIS</h4>
-<ul class="skill-list">
-  <li><strong>PostgreSQL / PostGIS</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>SQL Server</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>MySQL</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>MongoDB</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>SAP HANA</strong> <span class="level-advanced">Avanzado</span></li>
-</ul>
-</div>
-
-<div class="skill-category">
-<h4>Cloud & DevOps</h4>
-<ul class="skill-list">
-  <li><strong>Azure</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>AWS</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>Google Cloud</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>IBM Cloud / Watson</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>Docker</strong> <span class="level-advanced">Avanzado</span></li>
-</ul>
-</div>
-
-<div class="skill-category">
-<h4>Frameworks & Librerías</h4>
-<ul class="skill-list">
-  <li><strong>React / SPFx</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>Angular</strong> <span class="level-advanced">Avanzado</span></li>
-  <li><strong>Node.js</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>.NET Core</strong> <span class="level-expert">Experto</span></li>
-  <li><strong>TensorFlow/PyTorch</strong> <span class="level-advanced">Avanzado</span></li>
-</ul>
-</div>
-
-</div>
-
----
-
-## Prácticas de Desarrollo Seguro
-
-<div style="text-align: justify">
-Como profesional en el <strong>Sector Utility</strong> —infraestructura crítica—, la seguridad es parte integral de mi práctica de desarrollo:
-</div>
-
-- **DevSecOps**: Integración de seguridad en pipelines CI/CD
-- **Análisis de Dependencias**: Monitoreo automatizado con Dependabot
-- **Code Review**: Revisión de código con enfoque en vulnerabilidades
-- **Principio de Mínimo Privilegio**: Control de acceso granular
-- **Encriptación**: Datos en tránsito y en reposo
-
----
-
-## Colaboremos
-
-<div class="mission-statement">
-¿Buscas transformar las operaciones de campo de tu empresa de servicios públicos con inteligencia artificial y análisis geoespacial? Conversemos sobre cómo podemos innovar juntos.
-</div>
-
-<div style="text-align: center; margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/cristian-rodriguez-546a4150" class="cta-button" target="_blank">
-    Conectar en LinkedIn
-  </a>
-  <a href="https://github.com/script32" class="cta-button secondary" target="_blank">
-    Explorar Código
-  </a>
-  <a href="https://www.kaggle.com/crprpr" class="cta-button" target="_blank" style="background: linear-gradient(135deg, #20BEFF, #0088cc);">
-    Ver en Kaggle
-  </a>
-</div>
-
----
-
-<center style="color: #666; font-size: 0.9em;">
-© 2025 Cristian Rodriguez | Script32 Labs<br>
-Arquitecto de Soluciones Geoespaciales para el Sector Utility<br>
-<em>Transformando datos en acción operativa</em>
-</center>
