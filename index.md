@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Cristian Rodriguez - AI Strategy Consultant
-description: "Consultor de TI con 20+ años implementando IA, soluciones geoespaciales y transformación digital en 5 países y 6+ industrias. Líder de Negocio TI con 600+ proyectos ejecutados."
+description: "Consultor de TI con 20+ años implementando IA, agentes autónomos y software empresarial en 5 países y 6+ industrias. Líder de Negocio TI con 600+ proyectos ejecutados."
 ---
 
 <!-- HERO LANDING -->
 <div class="landing-hero">
   <img src="{{ '/images/image.jpg' | relative_url }}" alt="Cristian Rodriguez" class="avatar">
   <h1>Cristian Rodriguez</h1>
-  <p class="tagline">AI Strategy Consultant &middot; Arquitecto de Soluciones Geoespaciales</p>
+  <p class="tagline">AI Strategy Consultant &middot; Software Architect &amp; Senior Developer</p>
   <div class="landing-stats">
     <div class="landing-stat">
       <div class="number">20+</div>
@@ -35,7 +35,7 @@ description: "Consultor de TI con 20+ años implementando IA, soluciones geoespa
     <div class="role-icon">🌐</div>
     <h2>Consultor de TI</h2>
     <p class="role-meta">2007 &ndash; presente &middot; Chile · España · México · Colombia · Brasil</p>
-    <p>Implementaciones de IA, soluciones geoespaciales y transformación digital para clientes en Utility, Hoteles, Gobierno, Automotriz, Alimentos y más. Proyectos con ROI de hasta $9M USD.</p>
+    <p>IA generativa, agentes autónomos, desarrollo fullstack y transformación digital para clientes en Automotriz, Alimentos, Utility, Hoteles, Gobierno y más. Proyectos con ROI de hasta $9M USD.</p>
     <span class="role-cta">Ver experiencia de consultoría &rarr;</span>
   </a>
   <a href="{{ '/business-leader' | relative_url }}" class="role-card leader">
@@ -48,7 +48,7 @@ description: "Consultor de TI con 20+ años implementando IA, soluciones geoespa
 </div>
 
 <blockquote class="mission-statement">
-  "En un mundo donde la infraestructura crítica genera terabytes de datos espaciales, mi misión es transformar esa información en acción operativa."
+  "Mi misión es convertir la complejidad tecnológica en ventaja competitiva real: implementar IA que tome decisiones, construir software que escale y liderar la transformación digital con impacto medible en el negocio."
 </blockquote>
 
 <!-- ATS HIDDEN: visible para bots de reclutamiento, invisible para usuarios -->
