@@ -47,6 +47,24 @@ description: "Consultor de TI con 20+ años implementando IA, agentes autónomos
   </a>
 </div>
 
+<!-- DATSNAP PRODUCT DEMO -->
+<div style="max-width:860px; margin: 0 auto 12px; padding: 0 24px;">
+  <a href="https://www.synerbyte.cl/demo" target="_blank" rel="noopener" style="display:flex; align-items:center; gap:28px; background: linear-gradient(135deg, #001a33 0%, #003366 60%, #004d1a 100%); border: 1px solid #00cc66; border-radius: 14px; padding: 28px 36px; text-decoration:none; transition: transform 0.2s ease, box-shadow 0.2s ease;" onmouseover="this.style.transform='translateY(-3px)';this.style.boxShadow='0 8px 32px rgba(0,204,102,0.25)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='none'">
+    <div style="font-size:2.8em; flex-shrink:0;">⚡</div>
+    <div style="flex:1;">
+      <div style="display:flex; align-items:center; gap:10px; margin-bottom:6px;">
+        <span style="font-size:1.25em; font-weight:800; color:#ffffff; letter-spacing:-0.5px;">DataSnap™</span>
+        <span style="background:#00cc66; color:#001a33; font-size:0.7em; font-weight:700; padding:2px 10px; border-radius:20px; letter-spacing:0.5px;">DEMO GRATIS</span>
+      </div>
+      <p style="color:#e0e8f0; margin:0 0 6px; font-size:1.0em; font-weight:600;">De planilla a dashboard en 60 segundos.</p>
+      <p style="color:#8ab4cc; margin:0; font-size:0.88em;">Para empresas que parten desde planillas. Sube tu Excel o CSV, pregunta en español y recibe gráficos e insights al instante.</p>
+    </div>
+    <div style="flex-shrink:0;">
+      <span style="display:inline-block; background:#00cc66; color:#001a33; font-weight:700; font-size:0.88em; padding:10px 22px; border-radius:8px; white-space:nowrap;">Probar DataSnap™ &rarr;</span>
+    </div>
+  </a>
+</div>
+
 <blockquote class="mission-statement">
   "Mi misión es convertir la complejidad tecnológica en ventaja competitiva real: implementar IA que tome decisiones, construir software que escale y liderar la transformación digital con impacto medible en el negocio."
 </blockquote>
